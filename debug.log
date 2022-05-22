@@ -1,0 +1,18 @@
+[0509/132205.368:ERROR:command_buffer_proxy_impl.cc(122)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0509/132205.368:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0509/132211.716:INFO:CONSOLE(19)] "browser chrome version 85", source: https://login.slm.manage.smartbear.com/public/app/common.js (19)
+[0509/132211.740:INFO:CONSOLE(1)] "Ver. : 1.27.0", source: https://login.slm.manage.smartbear.com/index-rainadd718e3.js?92712facc2371f3dd4f5 (1)
+[0509/132211.740:INFO:CONSOLE(1)] "Description : SLM React Client build", source: https://login.slm.manage.smartbear.com/index-rainadd718e3.js?92712facc2371f3dd4f5 (1)
+[0509/132211.855:INFO:CONSOLE(1)] "[SmartBear ID Login SDK] createInstance data: [object Object]", source: https://login.slm.manage.smartbear.com/index-raindd743912.js?92712facc2371f3dd4f5 (1)
+[0509/132211.856:INFO:CONSOLE(1)] "Selected API is =>{"name":"useSessionLoginAPI","outDataObject":{},"outData":{},"instance":{"inited":true,"options":{"url":"https://api.id.smartbear.com/v1","setSessionCookie":true,"debug":true}}}", source: https://login.slm.manage.smartbear.com/index-rainadd718e3.js?92712facc2371f3dd4f5 (1)
+[0509/132212.601:INFO:CONSOLE(1)] "[SmartBear ID Login SDK] [object Response]", source: https://login.slm.manage.smartbear.com/index-raindd743912.js?92712facc2371f3dd4f5 (1)
+[0509/132212.602:INFO:CONSOLE(1)] "Extended Error info : %o [object Object]", source: https://login.slm.manage.smartbear.com/index-raindd743912.js?92712facc2371f3dd4f5 (1)
+[0516/145317.463:WARNING:ipc_message_attachment_set.cc(49)] MessageAttachmentSet destroyed with unconsumed attachments: 0/1
+[0516/145317.463:ERROR:command_buffer_proxy_impl.cc(122)] ContextResult::kTransientFailure: Failed to send GpuChannelMsg_CreateCommandBuffer.
+[0516/145323.331:INFO:CONSOLE(19)] "browser chrome version 85", source: https://login.slm.manage.smartbear.com/public/app/common.js (19)
+[0516/145323.357:INFO:CONSOLE(1)] "Ver. : 1.27.0", source: https://login.slm.manage.smartbear.com/index-rainadd718e3.js?92712facc2371f3dd4f5 (1)
+[0516/145323.358:INFO:CONSOLE(1)] "Description : SLM React Client build", source: https://login.slm.manage.smartbear.com/index-rainadd718e3.js?92712facc2371f3dd4f5 (1)
+[0516/145323.474:INFO:CONSOLE(1)] "[SmartBear ID Login SDK] createInstance data: [object Object]", source: https://login.slm.manage.smartbear.com/index-raindd743912.js?92712facc2371f3dd4f5 (1)
+[0516/145323.475:INFO:CONSOLE(1)] "Selected API is =>{"name":"useSessionLoginAPI","outDataObject":{},"outData":{},"instance":{"inited":true,"options":{"url":"https://api.id.smartbear.com/v1","setSessionCookie":true,"debug":true}}}", source: https://login.slm.manage.smartbear.com/index-rainadd718e3.js?92712facc2371f3dd4f5 (1)
+[0516/145324.149:INFO:CONSOLE(1)] "[SmartBear ID Login SDK] [object Response]", source: https://login.slm.manage.smartbear.com/index-raindd743912.js?92712facc2371f3dd4f5 (1)
+[0516/145324.150:INFO:CONSOLE(1)] "Extended Error info : %o [object Object]", source: https://login.slm.manage.smartbear.com/index-raindd743912.js?92712facc2371f3dd4f5 (1)

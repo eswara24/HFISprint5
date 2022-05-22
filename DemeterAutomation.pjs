@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{4E3F3C46-BC6C-41B7-963D-C9558019A17F}">
+	<children>
+		<child name="US226961_TestPanels" key="{E9ED379C-96E4-4AFF-B9F2-C68B0AFC78D7}" path="Sprint5\US226961_TestPanels.mds" />
+	</children>
+	<testItems key="{A24AA47C-1117-40DD-9F7A-3E048BB54B77}">
+		<children>
+			<testItem key="{E9ED379C-96E4-4AFF-B9F2-C68B0AFC78D7}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{376E8AEF-C233-4FC2-AEF7-6A4AF6AD8303}" />
+	<analysis key="{228EE91A-A9AA-46D7-9D35-CF964B4B25CE}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>
